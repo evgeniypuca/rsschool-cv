@@ -20,15 +20,11 @@ rsschool-cv
 ## About Me
 
 
-> I am 32 years old, I work as a energy-engineer. I really want to change jobs and I have a great interest in studying front-end development
+> I am 32 years old, I work as a energy-engineer. I really want to change job and I have a great interest in studying front-end development
 ---
 
 
 ## Skills
-
-
-Compilation of this resume
----
 
 
 basics HTML
@@ -69,7 +65,7 @@ University: Belarusian National Technical University, Energy Engineer
 ---
 
 
-## Courses:
+## Courses
 
 
 IT Academy - basics of web technologies
