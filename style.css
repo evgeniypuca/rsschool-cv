@@ -65,6 +65,7 @@ body {
    font-size: 20px;
    transition: 0.2s;
    color: white;
+   white-space: nowrap;
 }
 
 .nav-link:hover {
@@ -102,9 +103,29 @@ body {
 
 .footer a:hover {
    color: rgb(153, 170, 159);
-   font-size: 26px;
+   font-size: 24px;
 }
 
 .footer p {
    color: white;
+}
+
+.nav-contacts .nav-list,
+.nav-skills .nav-list {
+   line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+   .section {
+      width: 100%;
+   }
+
+   .header .nav-list {
+      display: flex;
+      flex-wrap: wrap;
+   }
+
+   .header .nav {
+      height: 100px;
+   }
 }
